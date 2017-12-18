@@ -34,7 +34,7 @@ python3 manage.py runserver 0.0.0.0:8080
 There's only one API route for the moment. In order to obtain the html text from website, use:
 
 ```
-[GET] http://localhost:8080/scrapper/
+[GET] http://localhost:8080/scrapper/?link=http://google.com
 ```
 Parameters:
 
