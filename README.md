@@ -6,7 +6,7 @@ This is a simple API Service that crawl the website and return its html
 
 ## Dependencies
 * [Django web framework](https://www.djangoproject.com/) - The web framework used
-* memcached
+* [Memcached](https://memcached.org/) - The caching technology used
 * [cfscrape](https://github.com/Anorov/cloudflare-scrape) - the html scrapper used
 * [beautiful soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - the html parser
 
